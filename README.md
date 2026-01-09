@@ -13,4 +13,4 @@ Important notes:
 
 The key should actually be generated from the password or should be stored securely.
 Encryption and decryption should be performed on files with appropriate formats, 
-not on binary files that may contain non-text data...
+not on binary files that may contain non-text data.
